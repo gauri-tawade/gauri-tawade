@@ -1,145 +1,93 @@
-<!-- TOP BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:4B0082,100:9D4EDD&height=220&section=header&text=Gauri%20Tawade&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%7C%20AI%2FML%20Enthusiast&descSize=18&descAlignY=75" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0820,50:2a0e5a,100:7c3aed&height=210&section=header&text=Gauri%20Tawade&fontSize=48&fontColor=e9d5ff&fontAlignY=38&desc=SQL%20Developer%20%7C%20Full-Stack%20Fresher&descSize=18&descAlignY=60" width="100%" alt="Gauri Tawade, SQL Developer and Full-Stack Fresher" />
 </p>
 
-<h3 align="center">
-  Code &nbsp; • &nbsp; Learn &nbsp; • &nbsp; Build &nbsp; • &nbsp; Grow
-</h3>
+<p align="center"><b>Code | Innovate | Build | Grow</b></p>
 
-<!-- ABOUT ME + SKILLS -->
-<table width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="26%" valign="top" align="center">
 
-## 👩‍💻 About Me
-
-Hi, I'm **Gauri Tawade!**
-
-A passionate Software Developer with an interest in:
-
-- Python Development
-- Web Development
-- Artificial Intelligence
-- Machine Learning
-- Database Management
-
-I enjoy turning ideas into practical projects and continuously learning new technologies.
-
-- 🎓 BCA Graduate
-- 📍 Pune, India
-- 💜 Open to learning and collaboration
+<img src="https://github.com/gauri-tawade.png?size=200" width="160" alt="Gauri Tawade" /><br/><br/>
+<h3>Gauri Tawade</h3>
+<b>gauri-tawade</b><br/><br/>
+<i>Dream Big. Build Better.</i><br/><br/>
+Maharashtra, India<br/>
+MCA Candidate (2026)<br/>
+SQL Developer (Fresher)<br/>
+Former Intern, Abuzz WebTech<br/><br/>
+<b>Connect With Me</b><br/><br/>
+<a href="https://www.linkedin.com/in/gauri-tawade/"><img src="https://img.shields.io/badge/LinkedIn-3B1580?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><br/>
+<a href="https://github.com/gauri-tawade"><img src="https://img.shields.io/badge/GitHub-3B1580?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a><br/>
+<a href="https://www.instagram.com/tawade_03"><img src="https://img.shields.io/badge/Instagram-3B1580?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a><br/><br/>
+<i>Keep Learning.<br/>Keep Growing.</i>
 
 </td>
+<td width="74%" valign="top">
+
+<table>
+<tr>
 <td width="50%" valign="top">
-
-## 🛠️ Skills & Technologies
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=3B1580&height=40&section=header&text=About%20Me&fontSize=18&fontColor=ffffff&fontAlign=14&fontAlignY=50" alt="About Me" width="100%" />
+<br/>
+Hi, I'm Gauri Tawade. I am an MCA candidate (2026) at KBC North Maharashtra University, Jalgaon, and a BCA graduate (2021-2024) from Systel IMR, Dhule.<br/><br/>
+I enjoy SQL, database design and normalization. As a Software Developer Intern at Abuzz WebTech Pvt. Ltd. (January to June 2025), I built the database layer of a job portal with a 10+ table normalized MySQL schema, 500+ seeded records and an AngularJS front end using REST APIs.
+</td>
+<td width="50%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=3B1580&height=40&section=header&text=Skills%20&%20Technologies&fontSize=18&fontColor=ffffff&fontAlign=14&fontAlignY=50" alt="Skills and Technologies" width="100%" />
+<br/>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,bootstrap,mysql,postgres,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,python,js,git,github,vscode&theme=dark&perline=6" alt="Skills" /><br/><br/>
+<b>SQL | Schema Design | Normalization | AngularJS | REST APIs | Unit Testing</b>
 </p>
+</td>
+</tr>
+</table>
 
-**Currently exploring:**
+<table>
+<tr>
+<td width="45%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=3B1580&height=40&section=header&text=GitHub%20Stats&fontSize=18&fontColor=ffffff&fontAlign=14&fontAlignY=50" alt="GitHub Stats" width="100%" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=gauri-tawade&show_icons=true&count_private=true&bg_color=120a24&title_color=c084fc&text_color=e9d5ff&icon_color=c084fc&hide_border=true" width="100%" alt="GitHub stats" />
+</td>
+<td width="55%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=3B1580&height=40&section=header&text=Contribution%20Activity&fontSize=18&fontColor=ffffff&fontAlign=14&fontAlignY=50" alt="Contribution Activity" width="100%" />
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauri-tawade&bg_color=120a24&color=c084fc&line=9d4edd&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution graph" />
+</td>
+</tr>
+</table>
 
-- Backend Development
-- AI & Machine Learning
-- Data Science
-- REST APIs
+<table>
+<tr>
+<td colspan="3">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=3B1580&height=40&section=header&text=Featured%20Projects&fontSize=18&fontColor=ffffff&fontAlign=14&fontAlignY=50" alt="Featured Projects" width="100%" />
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<b>Job Portal</b><br/>
+Backend and database for a job portal with a normalized MySQL schema of 10+ tables and 500+ seeded records. Built during my internship.<br/><br/>
+<img src="https://img.shields.io/badge/MySQL-3B1580?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/AngularJS-3B1580?style=flat-square&logo=angularjs&logoColor=white" alt="AngularJS" />
+</td>
+<td width="33%" valign="top">
+<b>Bus Management System</b><br/>
+Database-driven system to manage buses, routes and bookings.<br/><br/>
+<img src="https://img.shields.io/badge/MySQL-3B1580?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+</td>
+<td width="33%" valign="top">
+<b>Music Recommender System</b><br/>
+Recommends songs using cosine similarity.<br/><br/>
+<img src="https://img.shields.io/badge/Python-3B1580?style=flat-square&logo=python&logoColor=white" alt="Python" />
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
 </table>
 
----
-
-<!-- GITHUB STATS -->
-## 📊 GitHub Statistics
-
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gauri-creator&show_icons=true&theme=midnight-purple&hide_border=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauri-creator&layout=compact&theme=midnight-purple&hide_border=true" />
-</p>
-
-<p align="center">
-<img width="65%" src="https://streak-stats.demolab.com?user=gauri-creator&theme=midnight-purple&hide_border=true" />
-</p>
-
----
-
-## 💜 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauri-creator&bg_color=090014&color=C084FC&line=9D4EDD&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-</p>
-
----
-
-<!-- FEATURED PROJECTS -->
-## 🚀 Featured Projects
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-### 🌿 Mauli Agro Industry
-
-Responsive business website for a turmeric wholesale business.
-
-**Technologies**
-
-HTML • CSS • JavaScript
-
-[View Project →](https://github.com/gauri-creator/mauli-agro-website)
-
-</td>
-<td width="33%" valign="top">
-
-### 🏡 House Price Prediction
-
-Machine Learning model to predict house prices using property features.
-
-**Technologies**
-
-Python • Pandas • NumPy • Scikit-learn • Streamlit
-
-[Explore Repositories →](https://github.com/gauri-creator?tab=repositories)
-
-</td>
-<td width="33%" valign="top">
-
-### 🤖 AI & NLP Projects
-
-Exploring AI-powered applications, NLP and intelligent assistants.
-
-**Technologies**
-
-Python • Machine Learning • NLP • FastAPI
-
-[Explore Repositories →](https://github.com/gauri-creator?tab=repositories)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/gauri-tawade/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/gauri-creator">
-<img src="https://img.shields.io/badge/GitHub-Follow-9D4EDD?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
----
-
-<h3 align="center">
-💜 Keep Learning. Keep Building. Keep Growing.
-</h3>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:4B0082,100:9D4EDD&height=110&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0820,50:2a0e5a,100:7c3aed&height=100&section=footer" width="100%" alt="" />
 </p>
