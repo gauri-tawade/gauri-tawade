@@ -35,7 +35,7 @@ I enjoy turning ideas into practical projects and continuously learning new tech
 ##  Skills & Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,bootstrap,mysql,postgres,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,bootstrap,mysql,postgres,git,github,vscode&theme=dark" />
 </p>
 
 **Currently exploring:**
@@ -44,6 +44,7 @@ I enjoy turning ideas into practical projects and continuously learning new tech
 - AI & Machine Learning
 - Data Science
 - REST APIs
+- SQL & Database Management
 
 </td>
 </tr>
