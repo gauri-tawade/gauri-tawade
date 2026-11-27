@@ -4,10 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:4B0082,100:9D4EDD&height=220&section=header&text=Gauri%20Tawade&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=20&descAlignY=75" width="100%"/>
 </p>
 
-<h3 align="center">
-  Code &nbsp; • &nbsp; Develop &nbsp; • &nbsp; Innovate
-</h3>
-
 <!-- ================= ABOUT + EXPERIENCE + SKILLS ================= -->
 
 <table width="100%">
@@ -73,7 +69,6 @@ Abuzz WebTech Pvt. Ltd.
 - REST APIs
 - Database Normalization
 - Schema Design
-- Unit Testing
 - Git & GitHub
 
 </td>
@@ -84,33 +79,32 @@ Abuzz WebTech Pvt. Ltd.
 ---
 
 ---
+---
 
 ## Featured Projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/01-BUS%20MANAGEMENT-4B0082?style=for-the-badge"/>
-</p>
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
 
-### Bus Management System
+### 01. Bus Management System
 
-A database-driven project designed to manage bus operations, records and related information efficiently using a structured MySQL database.
+A MySQL database project for managing bus operations, records and related information.
 
 **Tech Stack**
 
 <img src="https://img.shields.io/badge/SQL-9D4EDD?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4B0082?style=flat-square&logo=mysql&logoColor=white"/>
 
-[View Source Code](YOUR_BUS_PROJECT_LINK)
+[View Project →](YOUR_BUS_PROJECT_LINK)
 
----
+</td>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/02-MUSIC%20RECOMMENDER-4B0082?style=for-the-badge"/>
-</p>
+<td width="33%" valign="top">
 
-### Music Recommender System
+### 02. Music Recommender
 
-A Python-based recommendation system that uses cosine similarity to identify similar music and generate personalized recommendations.
+A Python-based recommendation system using cosine similarity to identify similar music.
 
 **Tech Stack**
 
@@ -118,26 +112,29 @@ A Python-based recommendation system that uses cosine similarity to identify sim
 <img src="https://img.shields.io/badge/Pandas-4B0082?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-9D4EDD?style=flat-square&logo=scikitlearn&logoColor=white"/>
 
-[View Source Code](YOUR_MUSIC_PROJECT_LINK)
+[View Project →](YOUR_MUSIC_PROJECT_LINK)
 
----
+</td>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/03-JOB%20PORTAL-4B0082?style=for-the-badge"/>
-</p>
+<td width="33%" valign="top">
 
-### Job Portal
+### 03. Job Portal
 
-A web application developed during my Software Developer Internship, featuring an AngularJS frontend, REST API integration and a normalized MySQL database with 10+ tables.
+A job portal developed during internship with AngularJS, REST APIs and a normalized MySQL database.
 
 **Tech Stack**
 
 <img src="https://img.shields.io/badge/AngularJS-9D4EDD?style=flat-square&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-4B0082?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST_API-4B0082?style=flat-square"/>
 <img src="https://img.shields.io/badge/MySQL-9D4EDD?style=flat-square&logo=mysql&logoColor=white"/>
 
-[Explore GitHub](https://github.com/gauri-tawade?tab=repositories)
+[View Project →](YOUR_JOB_PORTAL_LINK)
 
+</td>
+</tr>
+</table>
+
+---
 ---
 
 <!-- ================= GITHUB STATISTICS ================= -->
