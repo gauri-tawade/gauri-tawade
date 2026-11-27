@@ -12,7 +12,7 @@
 <tr>
 <td width="50%" valign="top">
 
-##  About Me
+## About Me
 
 Hi, I'm **Gauri Tawade!**
 
@@ -26,19 +26,19 @@ A passionate Software Developer with an interest in:
 
 I enjoy turning ideas into practical projects and continuously learning new technologies.
 
--  Pune, India
--  Open to learning and collaboration
+- 📍 Pune, India
+- 🤝 Open to learning and collaboration
 
 </td>
 <td width="50%" valign="top">
 
-##  Skills & Technologies
+## Skills & Technologies
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,html,css,react,bootstrap,mysql,postgres,git,github,vscode&theme=dark" />
 </p>
 
-**Currently exploring:**
+**Currently Exploring:**
 
 - Backend Development
 - AI & Machine Learning
@@ -52,8 +52,57 @@ I enjoy turning ideas into practical projects and continuously learning new tech
 
 ---
 
+<!-- FEATURED PROJECTS -->
+## 🚀 Featured Projects
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+### 🌿 Mauli Agro Industry
+
+Responsive business website for a turmeric wholesale business.
+
+**Technologies**
+
+HTML • CSS • JavaScript
+
+[View Project →](https://github.com/gauri-creator/mauli-agro-website)
+
+</td>
+<td width="33%" valign="top">
+
+### 🏡 House Price Prediction
+
+Machine Learning model to predict house prices using property features.
+
+**Technologies**
+
+Python • Pandas • NumPy • Scikit-learn • Streamlit
+
+[Explore Repositories →](https://github.com/gauri-creator?tab=repositories)
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 AI & NLP Projects
+
+Exploring AI-powered applications, NLP and intelligent assistants.
+
+**Technologies**
+
+Python • Machine Learning • NLP • FastAPI
+
+[Explore Repositories →](https://github.com/gauri-creator?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+---
+
 <!-- GITHUB STATS -->
-##  GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gauri-creator&show_icons=true&theme=midnight-purple&hide_border=true" />
@@ -74,56 +123,7 @@ I enjoy turning ideas into practical projects and continuously learning new tech
 
 ---
 
-<!-- FEATURED PROJECTS -->
-##  Featured Projects
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-###  Mauli Agro Industry
-
-Responsive business website for a turmeric wholesale business.
-
-**Technologies**
-
-HTML • CSS • JavaScript
-
-[View Project →](https://github.com/gauri-creator/mauli-agro-website)
-
-</td>
-<td width="33%" valign="top">
-
-###  House Price Prediction
-
-Machine Learning model to predict house prices using property features.
-
-**Technologies**
-
-Python • Pandas • NumPy • Scikit-learn • Streamlit
-
-[Explore Repositories →](https://github.com/gauri-creator?tab=repositories)
-
-</td>
-<td width="33%" valign="top">
-
-###  AI & NLP Projects
-
-Exploring AI-powered applications, NLP and intelligent assistants.
-
-**Technologies**
-
-Python • Machine Learning • NLP • FastAPI
-
-[Explore Repositories →](https://github.com/gauri-creator?tab=repositories)
-
-</td>
-</tr>
-</table>
-
----
-
-##  Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/gauri-tawade/">
