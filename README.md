@@ -6,8 +6,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gauri-tawade"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/tawade_03"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://github.com/gauri-tawade/Gauri-Portfolio"><img src="https://img.shields.io/badge/Portfolio-View-6C63FF?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=gauri-creator&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=gauri-tawade&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
 </p>
 
 ---
@@ -50,12 +51,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gauri-creator&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauri-creator&layout=compact&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gauri-tawade&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauri-tawade&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauri-creator&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauri-tawade&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -72,7 +73,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gauri-tawade"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/gauri-creator"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://www.instagram.com/tawade_03"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/gauri-tawade"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
