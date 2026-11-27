@@ -1,10 +1,4 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/name-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/name-light.svg">
-    <img alt="Gauri Tawade" src="assets/name-light.svg" width="620">
-  </picture>
-</p>
+<h1 align="center">Gauri Tawade</h1>
 <h3 align="center">SQL and Database Developer | Full-Stack Fresher</h3>
 
 <p align="center">
@@ -32,23 +26,41 @@ Final-year MCA student at KBC North Maharashtra University, Jalgaon (2026). Form
 
 ### Projects
 
-| Project | Stack | Summary |
-|---|---|---|
-| Job Portal | MySQL, AngularJS, REST | 10+ table normalized schema, 500+ seeded records |
-| Bus Management System | MySQL | Buses, routes and bookings |
-| Music Recommender | Python | Cosine similarity based recommendations |
+**Job Portal** (Internship, Abuzz WebTech)
+Normalized MySQL schema with 10+ tables, 500+ seeded records, AngularJS front end with REST APIs.
+`MySQL` `AngularJS` `REST`
+
+**Bus Management System**
+Database-driven system to manage buses, routes and bookings.
+`MySQL`
+
+**Music Recommender System**
+Recommends songs using cosine similarity.
+`Python`
 
 ### GitHub Activity
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gauri-tawade&hide_border=true&show_icons=false&bg_color=1a1230&title_color=b79cff&text_color=f1eaff">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gauri-tawade&hide_border=true&show_icons=false&bg_color=f3effc&title_color=6d3fc4&text_color=2e1a5c">
-    <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=gauri-tawade&hide_border=true&show_icons=false&bg_color=f3effc&title_color=6d3fc4&text_color=2e1a5c">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gauri-tawade&hide_border=true&show_icons=true&bg_color=1a1230&title_color=b79cff&text_color=f1eaff&icon_color=b79cff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gauri-tawade&hide_border=true&show_icons=true&bg_color=f3effc&title_color=6d3fc4&text_color=2e1a5c&icon_color=6d3fc4">
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=gauri-tawade&hide_border=true&show_icons=true&bg_color=f3effc&title_color=6d3fc4&text_color=2e1a5c&icon_color=6d3fc4" height="170">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gauri-tawade&layout=compact&hide_border=true&bg_color=1a1230&title_color=b79cff&text_color=f1eaff">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gauri-tawade&layout=compact&hide_border=true&bg_color=f3effc&title_color=6d3fc4&text_color=2e1a5c">
-    <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauri-tawade&layout=compact&hide_border=true&bg_color=f3effc&title_color=6d3fc4&text_color=2e1a5c">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gauri-tawade&layout=compact&hide_border=true&bg_color=1a1230&title_color=b79cff&text_color=f1eaff&icon_color=b79cff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gauri-tawade&layout=compact&hide_border=true&bg_color=f3effc&title_color=6d3fc4&text_color=2e1a5c&icon_color=6d3fc4">
+    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauri-tawade&layout=compact&hide_border=true&bg_color=f3effc&title_color=6d3fc4&text_color=2e1a5c&icon_color=6d3fc4" height="170">
   </picture>
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=gauri-tawade&hide_border=true&background=1a1230&ring=b79cff&fire=b79cff&currStreakNum=f1eaff&sideNums=f1eaff&currStreakLabel=b79cff&sideLabels=b3a5d6&dates=b3a5d6">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=gauri-tawade&hide_border=true&background=f3effc&ring=6d3fc4&fire=6d3fc4&currStreakNum=2e1a5c&sideNums=2e1a5c&currStreakLabel=6d3fc4&sideLabels=5b4a85&dates=5b4a85">
+    <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=gauri-tawade&hide_border=true&background=f3effc&ring=6d3fc4&fire=6d3fc4&currStreakNum=2e1a5c&sideNums=2e1a5c&currStreakLabel=6d3fc4&sideLabels=5b4a85&dates=5b4a85" height="170">
+  </picture>
+</p>
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/gauri-tawade) | [Instagram](https://www.instagram.com/tawade_03) | [Portfolio](https://github.com/gauri-tawade/Gauri-Portfolio)
