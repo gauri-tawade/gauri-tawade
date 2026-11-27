@@ -142,22 +142,38 @@ A job portal developed during internship with AngularJS, REST APIs and a normali
 ## GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gauri-tawade&show_icons=true&theme=midnight-purple&hide_border=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauri-tawade&layout=compact&theme=midnight-purple&hide_border=true"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=gauri-tawade&show_icons=true&theme=midnight-purple&hide_border=true"
+    width="49%"
+    height="200"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauri-tawade&layout=compact&theme=midnight-purple&hide_border=true"
+    width="49%"
+    height="200"
+    alt="Most Used Languages"
+  />
 </p>
 
 <p align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=gauri-tawade&theme=midnight-purple&hide_border=true"/>
+  <img
+    src="https://streak-stats.demolab.com?user=gauri-tawade&theme=midnight-purple&hide_border=true"
+    width="65%"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
 
-<!-- ================= CONTRIBUTION GRAPH ================= -->
-
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauri-tawade&bg_color=090014&color=C084FC&line=9D4EDD&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=gauri-tawade&bg_color=090014&color=C084FC&line=9D4EDD&point=FFFFFF&area=true&hide_border=true"
+    width="100%"
+    alt="Contribution Activity"
+  />
 </p>
 
 ---
