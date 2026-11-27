@@ -1,15 +1,10 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-    <img alt="Gauri Tawade, SQL and Database Developer" src="assets/banner-light.svg" width="100%">
-  </picture>
-</p>
+<h1 align="center">Gauri Tawade</h1>
+<h3 align="center">SQL and Database Developer | Full-Stack Fresher</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gauri-tawade"><img src="https://img.shields.io/badge/LinkedIn-0969da?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/tawade_03"><img src="https://img.shields.io/badge/Instagram-0969da?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <a href="https://github.com/gauri-tawade/Gauri-Portfolio"><img src="https://img.shields.io/badge/Portfolio-0969da?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gauri-tawade"><img src="https://img.shields.io/badge/LinkedIn-6d3fc4?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/tawade_03"><img src="https://img.shields.io/badge/Instagram-6d3fc4?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/gauri-tawade/Gauri-Portfolio"><img src="https://img.shields.io/badge/Portfolio-6d3fc4?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -41,13 +36,13 @@ Final-year MCA student at KBC North Maharashtra University, Jalgaon (2026). Form
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gauri-tawade&hide_border=true&show_icons=false&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gauri-tawade&hide_border=true&show_icons=false&bg_color=f6f8fa&title_color=0969da&text_color=1f2328">
-    <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=gauri-tawade&hide_border=true&show_icons=false&bg_color=f6f8fa&title_color=0969da&text_color=1f2328">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gauri-tawade&hide_border=true&show_icons=false&bg_color=1a1230&title_color=b79cff&text_color=f1eaff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gauri-tawade&hide_border=true&show_icons=false&bg_color=f3effc&title_color=6d3fc4&text_color=2e1a5c">
+    <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=gauri-tawade&hide_border=true&show_icons=false&bg_color=f3effc&title_color=6d3fc4&text_color=2e1a5c">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gauri-tawade&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gauri-tawade&layout=compact&hide_border=true&bg_color=f6f8fa&title_color=0969da&text_color=1f2328">
-    <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauri-tawade&layout=compact&hide_border=true&bg_color=f6f8fa&title_color=0969da&text_color=1f2328">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gauri-tawade&layout=compact&hide_border=true&bg_color=1a1230&title_color=b79cff&text_color=f1eaff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gauri-tawade&layout=compact&hide_border=true&bg_color=f3effc&title_color=6d3fc4&text_color=2e1a5c">
+    <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauri-tawade&layout=compact&hide_border=true&bg_color=f3effc&title_color=6d3fc4&text_color=2e1a5c">
   </picture>
 </p>
