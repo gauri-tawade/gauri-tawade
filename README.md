@@ -1,4 +1,10 @@
-<h1 align="center">Gauri Tawade</h1>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/name-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/name-light.svg">
+    <img alt="Gauri Tawade" src="assets/name-light.svg" width="620">
+  </picture>
+</p>
 <h3 align="center">SQL and Database Developer | Full-Stack Fresher</h3>
 
 <p align="center">
