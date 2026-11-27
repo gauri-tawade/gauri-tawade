@@ -13,6 +13,16 @@
 > Final-year MCA student at KBC North Maharashtra University, Jalgaon (2026). Former Software Developer Intern at Abuzz WebTech Pvt. Ltd. I work with SQL, schema design and normalization, and I am looking for SQL Developer and full-stack fresher roles.
 
 > [!IMPORTANT]
+> **Internship**
+>
+> **Software Developer Intern**, Abuzz WebTech Pvt. Ltd.<br>
+> January to June 2025
+>
+> - Designed a normalized MySQL schema with 10+ tables for a job portal
+> - Seeded 500+ records for development and testing
+> - Integrated the database with an AngularJS front end through REST APIs
+
+> [!IMPORTANT]
 > **Tech Stack**
 >
 > <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
