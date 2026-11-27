@@ -2,42 +2,36 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:4B0082,100:9D4EDD&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
-<h1 align="center">💜 Hey, I'm Gauri Tawade!</h1>
-<h3 align="center">👩‍💻 SQL Developer | Full-Stack Fresher | MCA Student</h3>
+<h1 align="center">Hey, I'm Gauri Tawade</h1>
+<h3 align="center">SQL Developer | Full-Stack Fresher | MCA Student</h3>
 
 <p align="center">
-  <b>Code • Learn • Build • Grow</b>
+  <b>Code | Learn | Build | Grow</b>
 </p>
 
-## 🌸 About Me
+<h2><img src="https://img.shields.io/badge/About%20Me-4B0082?style=for-the-badge" alt="About Me" /></h2>
 
-- 👋 Hi, I'm Gauri Tawade, based in Dhule, Maharashtra, India.
-- 🎓 MCA candidate (2026), School of Computer Science, KBC North Maharashtra University, Jalgaon.
-- 📚 BCA graduate (2021-2024), Systel IMR, Dhule.
-- 🗄️ Interested in SQL, database design, schema design and normalization.
-- 💼 Former Software Developer Intern at Abuzz WebTech Pvt. Ltd.
-- 🎯 My goal is to become a skilled SQL Developer and Full-Stack Developer.
-- 💜 I love learning new technologies and building real-world projects.
+Hi, I'm Gauri Tawade, based in Dhule, Maharashtra, India. I am an MCA candidate (2026) at the School of Computer Science, KBC North Maharashtra University, Jalgaon, and a BCA graduate (2021-2024) from Systel IMR, Dhule.
 
-## 💼 Internship
+I am interested in SQL, database design, schema design and normalization. I worked as a Software Developer Intern at Abuzz WebTech Pvt. Ltd., and my goal is to become a skilled SQL Developer and Full-Stack Developer.
+
+<h2><img src="https://img.shields.io/badge/Internship-4B0082?style=for-the-badge" alt="Internship" /></h2>
 
 **Software Developer Intern, Abuzz WebTech Pvt. Ltd.** (January to June 2025)
 
-- Designed a normalized MySQL schema with 10+ tables for a job portal.
-- Seeded 500+ records for development and testing.
-- Integrated the database with an AngularJS front end through REST APIs.
+Designed a normalized MySQL schema with 10+ tables for a job portal, seeded 500+ records for development and testing, and integrated the database with an AngularJS front end through REST APIs.
 
-## 🛠️ Languages & Technologies
+<h2><img src="https://img.shields.io/badge/Tech%20Stack-4B0082?style=for-the-badge" alt="Tech Stack" /></h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,python,js,git,github&theme=dark" />
 </p>
 
 <p align="center">
-  <b>SQL • MySQL • Schema Design • Normalization • Python • JavaScript • AngularJS • REST APIs • Git • Unit Testing</b>
+  <b>SQL | MySQL | Schema Design | Normalization | Python | JavaScript | AngularJS | REST APIs | Git | Unit Testing</b>
 </p>
 
-## 📊 GitHub Statistics
+<h2><img src="https://img.shields.io/badge/GitHub%20Statistics-4B0082?style=for-the-badge" alt="GitHub Statistics" /></h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gauri-tawade&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="49%" />
@@ -48,31 +42,27 @@
   <img src="https://streak-stats.demolab.com?user=gauri-tawade&theme=midnight-purple&hide_border=true" width="70%" />
 </p>
 
-## 📈 Contribution Graph
+<h2><img src="https://img.shields.io/badge/Contribution%20Graph-4B0082?style=for-the-badge" alt="Contribution Graph" /></h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauri-tawade&bg_color=090014&color=c084fc&line=9d4edd&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
-## 🚀 Featured Projects
+<h2><img src="https://img.shields.io/badge/Projects-4B0082?style=for-the-badge" alt="Projects" /></h2>
 
-### 💼 Job Portal (Internship, Abuzz WebTech)
+**Job Portal (Internship, Abuzz WebTech)**<br>
+Backend and database for a job portal with a normalized schema of 10+ tables and 500+ seeded records.<br>
+<img src="https://img.shields.io/badge/MySQL-4B0082?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/AngularJS-4B0082?style=flat-square&logo=angularjs&logoColor=white" />
 
-- Backend and database for a job portal.
-- MySQL, AngularJS and REST APIs.
-- Normalized schema with 10+ tables and 500+ seeded records.
+**Bus Management System**<br>
+Database-driven system to manage buses, routes and bookings.<br>
+<img src="https://img.shields.io/badge/MySQL-4B0082?style=flat-square&logo=mysql&logoColor=white" />
 
-### 🚌 Bus Management System
+**Music Recommender System**<br>
+Recommends songs using cosine similarity.<br>
+<img src="https://img.shields.io/badge/Python-4B0082?style=flat-square&logo=python&logoColor=white" />
 
-- Database-driven system to manage buses, routes and bookings.
-- MySQL.
-
-### 🎵 Music Recommender System
-
-- Recommends songs using cosine similarity.
-- Python.
-
-## 🌐 Connect With Me
+<h2><img src="https://img.shields.io/badge/Connect%20With%20Me-4B0082?style=for-the-badge" alt="Connect With Me" /></h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gauri-tawade/">
@@ -87,7 +77,7 @@
 </p>
 
 <p align="center">
-  💜 <b>Thanks for visiting my profile!</b><br/>
+  <b>Thanks for visiting my profile!</b><br/>
   <i>Keep Learning. Keep Building. Keep Growing.</i>
 </p>
 
