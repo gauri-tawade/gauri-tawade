@@ -83,35 +83,60 @@ Abuzz WebTech Pvt. Ltd.
 
 ---
 
-<!-- ================= FEATURED PROJECTS ================= -->
+---
 
 ## Featured Projects
 
+<p align="center">
+  <img src="https://img.shields.io/badge/01-BUS%20MANAGEMENT-4B0082?style=for-the-badge"/>
+</p>
+
 ### Bus Management System
 
-A database management project designed to manage bus operations and related information using MySQL.
+A database-driven project designed to manage bus operations, records and related information efficiently using a structured MySQL database.
 
-**Technologies:** SQL, MySQL, Database Design
+**Tech Stack**
 
-[Explore Repositories](https://github.com/gauri-tawade?tab=repositories)
+<img src="https://img.shields.io/badge/SQL-9D4EDD?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4B0082?style=flat-square&logo=mysql&logoColor=white"/>
+
+[View Source Code](YOUR_BUS_PROJECT_LINK)
 
 ---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/02-MUSIC%20RECOMMENDER-4B0082?style=for-the-badge"/>
+</p>
 
 ### Music Recommender System
 
-A Python-based recommendation system that uses cosine similarity to recommend music based on item similarity.
+A Python-based recommendation system that uses cosine similarity to identify similar music and generate personalized recommendations.
 
-**Technologies:** Python, Pandas, Scikit-learn, Cosine Similarity
+**Tech Stack**
 
-[Explore Repositories](https://github.com/gauri-tawade?tab=repositories)
+<img src="https://img.shields.io/badge/Python-9D4EDD?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-4B0082?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-9D4EDD?style=flat-square&logo=scikitlearn&logoColor=white"/>
+
+[View Source Code](YOUR_MUSIC_PROJECT_LINK)
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/03-JOB%20PORTAL-4B0082?style=for-the-badge"/>
+</p>
+
 ### Job Portal
 
-A web application developed during my Software Developer Internship with an AngularJS frontend, REST APIs and a normalized MySQL database.
+A web application developed during my Software Developer Internship, featuring an AngularJS frontend, REST API integration and a normalized MySQL database with 10+ tables.
 
-**Technologies:** AngularJS, REST APIs, MySQL
+**Tech Stack**
+
+<img src="https://img.shields.io/badge/AngularJS-9D4EDD?style=flat-square&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-4B0082?style=flat-square"/>
+<img src="https://img.shields.io/badge/MySQL-9D4EDD?style=flat-square&logo=mysql&logoColor=white"/>
+
+[Explore GitHub](https://github.com/gauri-tawade?tab=repositories)
 
 ---
 
