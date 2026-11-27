@@ -2,9 +2,9 @@
 <h3 align="center">SQL and Database Developer | Full-Stack Fresher</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gauri-tawade"><img src="https://img.shields.io/badge/LinkedIn-6d3fc4?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/tawade_03"><img src="https://img.shields.io/badge/Instagram-6d3fc4?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <a href="https://github.com/gauri-tawade/Gauri-Portfolio"><img src="https://img.shields.io/badge/Portfolio-6d3fc4?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gauri-tawade">LinkedIn</a> |
+  <a href="https://www.instagram.com/tawade_03">Instagram</a> |
+  <a href="https://github.com/gauri-tawade/Gauri-Portfolio">Portfolio</a>
 </p>
 
 > [!IMPORTANT]
@@ -25,12 +25,10 @@
 > [!IMPORTANT]
 > **Tech Stack**
 >
-> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-> <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
-> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-> <img src="https://img.shields.io/badge/AngularJS-DD0031?style=flat-square&logo=angularjs&logoColor=white" />
-> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+> **Databases:** `SQL` `MySQL` `Schema Design` `Normalization`<br>
+> **Languages:** `Python` `JavaScript`<br>
+> **Frameworks:** `AngularJS` `REST APIs`<br>
+> **Tools:** `Git` `GitHub` `Unit Testing`
 
 > [!IMPORTANT]
 > **Projects**
